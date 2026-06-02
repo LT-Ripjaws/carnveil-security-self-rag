@@ -1,0 +1,9 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+faiss_index/
+*.sqlite3
